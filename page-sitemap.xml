@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2026-02-08T19:23:17+00:00</lastmod>
+		<lastmod>2026-02-09T16:50:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-20-at-21.42.22.jpeg</image:loc>
 		</image:image>
@@ -48,7 +48,7 @@
 	</url>
 	<url>
 		<loc>/contact/</loc>
-		<lastmod>2026-02-08T19:14:11+00:00</lastmod>
+		<lastmod>2026-02-09T16:54:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/12/morocco.png</image:loc>
 		</image:image>
@@ -137,7 +137,7 @@
 			<image:loc>/wp-content/uploads/2025/12/close-up-of-a-studio-microphone-with-pop-filter-ideal-for-recording-audio.-3783471-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/12/a-unique-perspective-of-dusseldorfs-city-streets-seen-through-a-camera-lens-at-night.-339379-scaled.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/12/a-unique-perspective-of-dusseldorfs-city-streets-seen-through-a-camera-lens-at-night.-339379-scaled-683x1024.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
